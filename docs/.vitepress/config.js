@@ -69,6 +69,10 @@ export default {
             {
               text: 'webpack性能优化（举例）',
               link: '/engineering/webpack性能优化（举例）',
+            },
+            {
+              text: 'webpack splitChunks最佳实践',
+              link: '/engineering/webpack splitChunks最佳实践',
             }
         ]
       },
