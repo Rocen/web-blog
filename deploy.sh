@@ -2,14 +2,14 @@
 
 set -e
 
-npm run build
+npm run docs:build
 
-cd docs/.vuepress/dist
+cd docs/.vitepress/dist
 
 git init
 git add -A
 git commit -m 'auto deploy'
 
-git push -f git@github.com:Rocen/web-blog.git master:gh-pages
+git push -f git@github.com:Rocen/web-blog.git main:gh-pages
 
 cd -
