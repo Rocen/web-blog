@@ -61,6 +61,14 @@ export default {
             {
               text: 'webpack工作流程',
               link: '/engineering/webpack工作流程',
+            },
+            {
+              text: 'webpack性能优化',
+              link: '/engineering/webpack性能优化',
+            },
+            {
+              text: 'webpack性能优化（举例）',
+              link: '/engineering/webpack性能优化（举例）',
             }
         ]
       },
