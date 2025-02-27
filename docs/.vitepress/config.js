@@ -1,6 +1,7 @@
 export default {
   title: 'Web Blog',
   description: 'Web Blog',
+  base: '/web-blog/',
   head: [
     [
         'link',
