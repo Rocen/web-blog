@@ -49,6 +49,14 @@ export default {
             {
                 text: 'TailwindCSS原理',
                 link: '/css/TailwindCSS原理',
+            },
+            {
+              text: 'Grid',
+              link: '/css/grid',
+            },
+            {
+              text: 'Flex',
+              link: '/css/flex',
             }
         ]
       },
@@ -74,6 +82,10 @@ export default {
             {
               text: 'webpack splitChunks最佳实践',
               link: '/engineering/webpack splitChunks最佳实践',
+            },
+            {
+              text: 'webpack热更新',
+              link: '/engineering/webpack热更新',
             }
         ]
       },
