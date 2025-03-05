@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as l}from"./chunks/framework.Bl5GZLa3.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"css/Flex.md","filePath":"css/Flex.md"}'),e={name:"css/Flex.md"};function t(h,s,p,k,d,r){return n(),a("div",null,s[0]||(s[0]=[l("",59)]))}const E=i(e,[["render",t]]);export{c as __pageData,E as default};
