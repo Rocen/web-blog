@@ -52,11 +52,11 @@ export default {
             },
             {
               text: 'Grid',
-              link: '/css/grid',
+              link: '/css/Grid',
             },
             {
               text: 'Flex',
-              link: '/css/flex',
+              link: '/css/Flex',
             }
         ]
       },
@@ -84,8 +84,8 @@ export default {
               link: '/engineering/webpack splitChunks最佳实践',
             },
             {
-              text: 'webpack热更新',
-              link: '/engineering/webpack热更新',
+              text: 'webpack热更新原理',
+              link: '/engineering/webpack热更新原理',
             }
         ]
       },
