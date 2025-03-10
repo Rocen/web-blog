@@ -44,8 +44,16 @@ export default {
         ]
       },
       {
-        text: 'Css',
+        text: 'CSS',
         items: [
+            {
+                text: 'BFC',
+                link: '/css/BFC',
+            },
+            {
+                text: '区块盒子和行内盒子',
+                link: '/css/区块盒子和行内盒子',
+            },
             {
                 text: 'TailwindCSS原理',
                 link: '/css/TailwindCSS原理',
