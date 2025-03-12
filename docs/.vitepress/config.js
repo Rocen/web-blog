@@ -72,8 +72,8 @@ export default {
         text: '工程化',
         items: [
             {
-                text: 'Compiler和Compilation',
-                link: '/engineering/Compiler和Compilation',
+              text: 'Compiler和Compilation',
+              link: '/engineering/Compiler和Compilation',
             },
             {
               text: 'webpack工作流程',
@@ -97,6 +97,23 @@ export default {
             }
         ]
       },
+      {
+        text: '概念',
+        items: [
+          {
+            text: '深拷贝和浅拷贝',
+            link: '/concept/深拷贝和浅拷贝',
+          },
+          {
+            text: '深比较和浅比较',
+            link: '/concept/深比较和浅比较',
+          },
+          {
+            text: 'React中的浅比较',
+            link: '/concept/React中的浅比较',
+          }
+        ]
+      }
     ],
     socialLinks: [
         { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
